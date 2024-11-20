@@ -1,2 +1,2 @@
-# Alura-spa
-Um site de Spa com demonstração de conteúdos que o spa tem a oferecer.
+# Alura Spa
+Um projeto de site sobre spa proporcionado pela Alura no curso de SASS e CSS com demonstração de conteúdos que o site tem a oferecer.
